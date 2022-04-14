@@ -7,7 +7,7 @@ print(t)
 if x == 1:
     print("x is 1")
 
-f = 14
+f = 14.0
 ff = float(14)
 n = "arik"
 r = 'arik "atiya"'
