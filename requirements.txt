@@ -1,0 +1,5 @@
+flask
+requests~=2.25.1
+awscli
+
+Pillow~=7.2.0
